@@ -11,7 +11,8 @@
 - [Mão a obra...](#id04)
 - [Pré-requisitos](#id05)
 - [Procedimentos de instalação](#id06)
-- [Autor](#id07)
+- [Desafios similares e dicas ](#id07)
+- [Autor](#id08)
 
 # 🚀 Proposta <a name="id01"></a>
 
@@ -116,7 +117,21 @@ git clone https://github.com/<meu_user>/<my-repo>.git
 
 <br />
 
-# :sunglasses: Autor <a name="id07"></a>
+# 👨🏾‍💻 Desafios similares e dicas <a name="id07"></a>
+
+Antes ou depois de realizar esse desafio, você pode pegar desafios parecidos do front-end mentor ou similares. Isso te ajuda a fixar e melhorar. Vou deixar três deles a seguir, são todos sobre montar um pequeno card, mas já são propostas de montar de acordo com um design, pode te ajudar a se inspirar.
+
+O segredo aqui é fazer modelos parecidos até ganhar algum conforto com fazer algo com essas técnicas e esse modelo de desafio, então quem sabe pegar outros mais difíceis.
+
+[QR code component](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H)
+[Order summary component](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj)
+[Order summary component](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U)
+
+Você também pode usar o dribbble para se inspirar.
+
+[Dribbble](https://dribbble.com)
+
+# :sunglasses: Autor <a name="id08"></a>
 
 <br />
 
