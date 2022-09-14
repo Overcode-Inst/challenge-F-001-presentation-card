@@ -124,7 +124,13 @@ Antes ou depois de realizar esse desafio, você pode pegar desafios parecidos do
 O segredo aqui é fazer modelos parecidos até ganhar algum conforto com fazer algo com essas técnicas e esse modelo de desafio, então quem sabe pegar outros mais difíceis.
 
 [QR code component](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H)
+
+<br>
+
 [Order summary component](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj)
+
+<br>
+
 [Order summary component](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U)
 
 Você também pode usar o dribbble para se inspirar.
