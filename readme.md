@@ -15,7 +15,7 @@
 
 # 🚀 Proposta <a name="id01"></a>
 
-Assim como Linus Torvalds disse "Falar é fácil, me mostre o código". Nós desenvolvedores nunca vamos aprender a programar e desenvolver software sem efetivamente coda, é como tentar aprender a andar de bicicleta lendo livros e vendo vídeos.
+Assim como Linus Torvalds disse "Falar é fácil, me mostre o código". Nós desenvolvedores nunca vamos aprender a programar e desenvolver software sem efetivamente codar, é como tentar aprender a andar de bicicleta lendo livros e vendo vídeos.
 
 E foi assim que essa abordagem nasceu, um roadmap baseado em projetos. A ideia em seu princípio é simples, essa é uma demanda, tente encarar como um desafio técnico e completá-lo em até 7 dias.
 
@@ -25,11 +25,11 @@ E foi assim que essa abordagem nasceu, um roadmap baseado em projetos. A ideia e
 
 Imagine que você está começando no ramo do front-end, e surgiu uma oportunidade de networking que pode gerar futuras vagas, e nesse grupo só para desenvolvedores disseram o seguinte.
 
-"Cartões em papel, e-mails e tudo isso aí ta no passado, somos desenvolvedores, e nesse grupo nos apresentamos como desenvolvedores. Se você quer entrar no grupo sua missão é fazer um cartão de apresentação, usando HTML e CSS que nos enquante."
+"Cartões em papel, e-mails e tudo isso aí ta no passado, somos desenvolvedores, e nesse grupo nos apresentamos como desenvolvedores. Se você quer entrar no grupo sua missão é fazer um cartão de apresentação, usando HTML e CSS que nos encante."
 
-Aliás, eles disseram o seguinte também, quando foi perguntado sobre desgin.
+Aliás, eles disseram o seguinte também, quando foi perguntado sobre design.
 
-"O que? querendo um design pronto? não queremos uma monte de cardzinhos iguais, seja criativo, nos impressione."
+"O que? querendo um design pronto? Não queremos uma monte de cardzinhos iguais... Seja criativo, nos impressione!"
 
 <br />
 
