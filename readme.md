@@ -48,6 +48,7 @@ Seu card de apresentação deve conter:
 - links para o gitHub e linkedin
 - um foto sua
 - dizendo que é dev front-end
+- um belo about se apresentando (nada de textão em)
 
 ### :dart: Requisitos não funcionais <a name="id01.2.2"></a>
 
