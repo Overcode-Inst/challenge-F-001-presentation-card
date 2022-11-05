@@ -20,6 +20,8 @@ Assim como Linus Torvalds disse "Falar é fácil, me mostre o código". Nós des
 
 E foi assim que essa abordagem nasceu, um roadmap baseado em projetos. A ideia em seu princípio é simples, essa é uma demanda, tente encarar como um desafio técnico e completá-lo em até 7 dias.
 
+Ao completar, não esqueça de publicar no linkedin e adicionar #handsOnRoadmap
+
 ## :trophy: O desafio <a name="id01.1"></a>
 
 <br />
